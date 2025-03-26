@@ -1,2 +1,3 @@
 # dio-desafio
-Desafios da Dio
+Desafios referentes às trilhas de estudos da Dio
+
